@@ -1,6 +1,6 @@
 {
   "name": "merhub-3021",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing publishing a node package in Azure",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
